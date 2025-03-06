@@ -1,6 +1,5 @@
 /*
-    CS463G : Assignment 3
-    SAT Solver - Using DPLL, WalkSAT, and GSAT
+    SAT Solver - Using DPLL
 */
 
 #include "solver.h"
